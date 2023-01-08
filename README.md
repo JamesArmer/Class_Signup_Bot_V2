@@ -3,6 +3,7 @@
 I got annoyed with having to book gym classes every day at the same time and missing out when I forgot. So like any good engineer I automated the process.
 
 V2 Update: New gym same deal :sunglasses:
+
 Same python selenium script style but this time hosted in AWS Lambda as its the cloud provider I have been using lately (and I still have free resources to use).
 
 _Implementation is based on the below tutorial_
